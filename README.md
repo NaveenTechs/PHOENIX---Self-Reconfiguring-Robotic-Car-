@@ -34,3 +34,6 @@ self-reconfiguration mechanism.
 
  ## Arduino Source Code
  [View Arduino Code](Phoenix.ino)
+
+ ## Project Status
+ Hardware Prototype
